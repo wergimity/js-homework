@@ -16,6 +16,7 @@ Feel free to use your favourite framework or vanilla js.
 * Project should be delivered via github or any other public git repository
 
 ## Example
+```
 ├── Element #1
 ├── Element #2
 └── Element #3
@@ -32,3 +33,4 @@ Feel free to use your favourite framework or vanilla js.
     └── Child #3 of element #3
         ├── Subchild
         └── Subchild
+```
